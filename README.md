@@ -1,7 +1,5 @@
-Hi!
-I'm Zaeem, a full-stack engineer based in Atlanta!
+Hi! I'm Zaeem,
 
-Currently building cool things with NCR's Software Innovation Lab.
-I love all things technology, but have a special passion for good design, and project strategy.
+Currently building vector databases at pinecone.
 
 Contact me --> zaeem@adamjee.com
